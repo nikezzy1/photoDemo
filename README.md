@@ -619,7 +619,7 @@ Glide.with(context).load(resId)
 
 
 
-具体源码请移步我的GitHub：
+具体源码请移步我的GitHub：https://github.com/nikezzy1/photoDemo.git
 
 
 
